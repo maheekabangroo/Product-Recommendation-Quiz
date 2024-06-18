@@ -3,13 +3,16 @@
 This project combines a neural network model with a simple graphical user interface (GUI) built using Tkinter to predict the stage of sciatica based on user-provided answers to specific questions. The prediction is then used to recommend appropriate treatment options.
 
 **FEATURES**
-- Neural Network Model: Trained using TensorFlow/Keras to classify input data into one of five sciatica severity stages (I, II, III, IV, V).
+- _Neural Network Model_: Trained using TensorFlow/Keras to classify input data into one of five sciatica severity stages (I, II, III, IV, V).
+
   Predicts the stage of sciatica based on user-provided answers.
 
-- Graphical User Interface (GUI): Developed using Tkinter, providing an interactive environment for users to answer questions and receive predictions.
+- _Graphical User Interface (GUI)_: Developed using Tkinter, providing an interactive environment for users to answer questions and receive predictions.
+
   Simple and intuitive GUI for user interaction.
 
-- Recommendations: Based on the predicted stage, the application provides treatment recommendations sourced from a CSV file.
+- _Recommendations_: Based on the predicted stage, the application provides treatment recommendations sourced from a CSV file.
+
   Displays recommendations corresponding to the predicted stage.
 
 
