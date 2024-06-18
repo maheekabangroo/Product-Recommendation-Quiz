@@ -1,4 +1,5 @@
 **PROJECT TITLE**
+
 This project combines a neural network model with a simple graphical user interface (GUI) built using Tkinter to predict the stage of sciatica based on user-provided answers to specific questions. The prediction is then used to recommend appropriate treatment options.
 
 **FEATURES**
