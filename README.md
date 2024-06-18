@@ -14,9 +14,10 @@ This project combines a neural network model with a simple graphical user interf
 
 
 **PROJECT DESCRIPTION**
+
 This project helps predict the severity stage of sciatica, a condition causing pain in the lower back and legs, based on how someone answers specific questions about their symptoms. There are 8 set of questions that a customer must answer based on their condition's symptoms. Upon answering the multiple choice questions, the model will assign a condition stage to the customer and recommend appropriate treatment options using a different product kits. The stages range from Stage 1 to Stage 5 in the order of increasing severity and each stage has a product kit assigned to it.
 
-**Using the GUI**
+**USING THE GUI**
 - Interface: The GUI window titled "Sciatica Stage Predictor" will display a series of questions related to sciatica symptoms.
 - Answering Questions: For each question, select one of the provided answers ('A', 'B', 'C', 'D') using radio buttons.
 - Predicting Stage: Click the "Predict" button after answering all questions. The application will predict the severity stage based on your responses.
